@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @2dDaniel
-- 👀 I’m interested in reading and learning more/new development books
-- 🌱 I’m currently learning..HTML and CSS
-- 💞️ I’m looking to collaborate on YouTube
-- 📫 How to reach me : dancodaniel123@gmail.com
+- 👋 Hi, I’m Daniel. Am a Frontend web developer
+- 👀 I’m interested in building more projects
+- 🌱 I’m currently learning javascript
+- 💞️ I’m open to collaborate with anyone
+- 📫 How to reach me? Email: dancodaniel123@gmail.com
 
